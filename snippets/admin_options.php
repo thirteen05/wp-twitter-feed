@@ -25,7 +25,7 @@
         <th scope="row">Number of Tweets</th>
         <td>
         	<input class="twitter1305-input-number" type="number" name="tweetQuantity" value="<?php echo esc_attr( get_option('tweetQuantity') ); ?>" />
-        	<p class="description">Select -1 to Display All Tweets</p>
+        	<p class="description">Select 0 to Display All Tweets</p>
         </td>
         </tr>
 

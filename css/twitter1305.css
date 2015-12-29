@@ -1,3 +1,5 @@
+/*WP Admin Styles*/
+
 .twitter1305-input{
 	display: block;
 	margin-bottom: 10px;
@@ -7,5 +9,15 @@
 .twitter1305-input--number{
 	display: block;
 	margin-bottom: 10px;
-/*	min-width: 300px;
-*/}
+}
+
+/*Front-End Styles*/
+
+.tweet-wrapper{
+  padding: 10px;
+  background-color: #EEE;
+}
+
+.tweet-row{
+  padding: 15px;
+}
