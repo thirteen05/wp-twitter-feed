@@ -1,0 +1,11 @@
+.twitter1305-input{
+	display: block;
+	margin-bottom: 10px;
+	min-width: 300px;
+}
+
+.twitter1305-input--number{
+	display: block;
+	margin-bottom: 10px;
+/*	min-width: 300px;
+*/}
