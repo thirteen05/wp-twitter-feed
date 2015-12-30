@@ -35,5 +35,5 @@
 
 </form>
 
-<h3>Created by Jed Darrohn at <a href="http://www.thirteen05.com">thirteen05 Creative</a></h3>
+<h3>Created by the crew at <a href="http://www.thirteen05.com">thirteen05 Creative</a></h3>
 </div>
